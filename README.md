@@ -10,7 +10,7 @@ const age: number = 19;
 const country: string = 'Venezuela';
 const city: string = 'Caracas, Distrito Capital';
 const passions: string[] = ['Technology', 'Sports', 'Bodybuilding', 'Velocity'];
-const languages_and_tools: string[] = ['HTML', 'CSS', 'Javascript', 'Typescript', 'GIT', 'Scrum'];
+const languages_and_tools: string[] = ['HTML', 'CSS', 'Javascript', 'Typescript', 'React', 'Node.js', 'GIT', 'Scrum'];
 const hobbies: string[] = ['To train', 'Listen podcast', 'Video Games', 'To meditate', 'Comedy'];
 ```
 ***Objetives and goals:***
