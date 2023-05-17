@@ -6,7 +6,7 @@ I'm a 19 year old Venezuelan  🇻🇪  Frontend Developer
 ### About me
 ```typescript
 const name: string = 'Leonardo Guevara';
-const age: number = 19;
+const age: number = 20;
 const country: string = 'Venezuela';
 const city: string = 'Caracas, Distrito Capital';
 const passions: string[] = ['Technology', 'Sports', 'Bodybuilding', 'Velocity'];
