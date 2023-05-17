@@ -1,7 +1,7 @@
 ### Hi, I'm Leonardo! 🙋‍♂️
 ___
 
-I'm a 19 year old Venezuelan  🇻🇪  Frontend Developer  
+I'm a 20 year old Venezuelan  🇻🇪  Frontend Developer  
 
 ### About me
 ```typescript
